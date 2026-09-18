@@ -1,0 +1,13 @@
+timestamp,building,resource_type,value
+2026-09-01 10:00:00,Central Library,electricity,82.4
+2026-09-01 11:00:00,Central Library,electricity,85.1
+2026-09-01 12:00:00,Central Library,electricity,91.7
+2026-09-01 10:00:00,Evergreen Residence Hall,water,420.0
+2026-09-01 11:00:00,Evergreen Residence Hall,water,438.0
+2026-09-01 12:00:00,Evergreen Residence Hall,water,415.5
+2026-09-01 00:00:00,Campus Student Center,waste,320.0
+2026-09-02 00:00:00,Campus Student Center,waste,340.0
+2026-09-01 10:00:00,Science & Engineering Complex,electricity,195.2
+2026-09-01 11:00:00,Science & Engineering Complex,electricity,201.8
+2026-09-01 10:00:00,Summit Dining Commons,water,710.0
+2026-09-01 11:00:00,Summit Dining Commons,water,745.0
